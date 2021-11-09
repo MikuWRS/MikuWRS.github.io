@@ -1,6 +1,6 @@
 ---
 published: true
-title: HackTheBox - Horizontall
+title: HackTheBox - Horizontall [WriteUp OSCP style]
 date: '2021-11-02'
 category: HackTheBox
 description: WriteUp de la Máquina Horizontall de HackTheBox
