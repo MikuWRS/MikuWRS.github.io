@@ -1,6 +1,6 @@
 ---
 published: true
-title: HackTheBox - Grandpa
+title: HackTheBox - Grandpa [WriteUp OSCP style]
 date: '2021-11-04'
 category: HackTheBox
 description: WriteUp de la Máquina Grandpa de HackTheBox (Extrapolable a la máquina Granny)
