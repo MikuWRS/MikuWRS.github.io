@@ -1,6 +1,6 @@
 ---
 published: true
-title: HackTheBox - Knife
+title: HackTheBox - Knife [WriteUp OSCP style]
 date: '2021-07-08'
 category: HackTheBox
 description: WriteUp de la Máquina Knife de HackTheBox
