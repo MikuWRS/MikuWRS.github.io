@@ -1,6 +1,6 @@
 ---
 published: true
-title: HackTheBox - Cap
+title: HackTheBox - Cap [WriteUp]
 date: '2021-11-30'
 category: HackTheBox
 description: WriteUp de la Máquina Cap de HackTheBox
